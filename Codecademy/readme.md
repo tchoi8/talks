@@ -44,6 +44,10 @@ However, poetry has been always having a moment, as we can see [as early as 1952
 - [Ryan Trecartin](http://rhizome.org/editorial/2011/jul/27/making-word-ryan-trecartin-poet/)
 - ["Book length poem"](https://en.wikipedia.org/wiki/Long_poem)
 - [The Animated Reader](http://miamirail.org/reviews/the-animated-reader/)
+- [Handwritten Preface to Reverse the Book](http://www.poetryfoundation.org/poem/239150) by Bhanu Kapil
+- [How It Feels](http://www.poetryfoundation.org/poetrymagazine/article/250614) by Jenny Zhang
+- [Dodie Bellamy](http://bombmagazine.org/article/7463/dodie-bellamy)
+- [View from a folding chair](http://www.newyorker.com/magazine/2015/05/18/view-from-a-folding-chair) by Mónica de la Torre
 - Donna Stonecipher: [Model City](http://www.shearsman.com/ws-shop/category/796-books/product/4891-donna-stonecipher-model-city)
  
 
