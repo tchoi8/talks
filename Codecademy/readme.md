@@ -8,27 +8,40 @@ However, poetry has been always having a moment, as we can see [as early as 1952
 
 ### "School" for poetic computation
 
+- [Goat Island Performance Group](http://www.goatislandperformance.org/) 
+- [Eyebeam Art and Technology Center](http://eyebeam.org)
 - [The Public School New York](http://thepublicschool.org/nyc) 
 - [Ga-ok, Temporary Space Seoul](http://www.temporaryseoul.org/)
-- [Eyebeam Art and Technology Center](http://eyebeam.org)
 - [Making Lab](https://apap.or.kr/en/makinglab) at APAP  
-- [Goat Island Performance Group](http://www.goatislandperformance.org/) 
 - The Change You Want to See / [Not an Alternative](http://notanalternative.org/) 
-- [MIT Media Lab](https://www.media.mit.edu/) 
-- [NYU ITP](http://tisch.nyu.edu/itp) 
 - [Occupy Wall Street](https://en.wikipedia.org/wiki/Occupy_Wall_Street)
 - [The Free University of New York](http://freeuniversitynyc.org/)
 - [Coppenhagen Free University](http://www.copenhagenfreeuniversity.dk/)
 - [Organization for Direct Democracy by Referendum](http://casestudiesforeducationalturn.blog.hu/2011/05/24/joseph_beuys_organization_for_direct_democracy_by_referendum) 
+- [MIT Media Lab](https://www.media.mit.edu/) 
+- [NYU ITP](http://tisch.nyu.edu/itp) 
+- SFPC's operating principle "Radical transparency"
+- "Pass through" financial model 
+- Non for profit vs Artist collective 
+- Founders / Steering committee / Organizer / Teacher / Visiting artists/ Student / Friend  
 
+
+#### Radical pedagogy
+
+- "Eleanor Duckworth, Rudolf Steiner, Ivan Illich, Maria Montessori, John Taylor Gatto, Paulo Freire, Grace Llewellyn, Larry Harvey." from Jay Silver's [ph.d thesis](http://web.media.mit.edu/~silver/Lens-Block-Jay-Silver-PhD-Thesis.pdf), pg.20 
+- Horizontal approach [Critical pedagogy](http://taeyoonchoi.com/2012/05/notes-on-critical-pedagogy/)
+- "Cultural science, Temporality, in cultural geography, critique of temporarlity. Art is about reality production." [Olafur Elliason](http://raumexperimente.net/en/single/olafur-eliasson-closing-address/)
+-  How to make an "Open source school" in physical reality 
+-  "What do you want SFPC to be?" (our interview question)
 
 ###"Poetic" computation 
+
+My own [projects](http://taeyoonchoi.com)
 
 - [Handmade Computer](https://github.com/tchoi8/handmadecomputer)
 - [In Search of Personalized Time](http://i-s-o-p-t.com/)
 - [Absence Presence](http://absencepresence.org/), an ongoing collaboration with Christine Sun Kim
 - [Version Controlled Poetry](https://github.com/tchoi8/poetry)
-
 
 ### Wait. poetry? 
 
@@ -36,8 +49,10 @@ However, poetry has been always having a moment, as we can see [as early as 1952
 - [Oulipo](https://en.wikipedia.org/wiki/Oulipo)
 - [Gertrude Stein](https://en.wikipedia.org/wiki/Gertrude_Stein)
 - [Electronic literature](https://en.wikipedia.org/wiki/Electronic_literature)
+- Stephanie Strickland and Nickt Montfort: [Duels — Duets](http://duels-duets.newbinarypress.com/), computational poem about collaboration.
 - Kenneth Goldsmith: [Uncreative writing](http://chronicle.com/article/Uncreative-Writing/128908/) 
 - Sougwen Chung: [#gothscreenshots](http://gothscreenshots.tumblr.com/)
+- [Hannah Weiner](https://en.wikipedia.org/wiki/Hannah_Weiner)
 - [muumuuhouse](http://muumuuhouse.com/)
 - [Badlands Unlimited](http://badlandsunlimited.com/)
 - [Internet poetry](http://internetpoetry.tumblr.com/)
@@ -49,16 +64,23 @@ However, poetry has been always having a moment, as we can see [as early as 1952
 - [Dodie Bellamy](http://bombmagazine.org/article/7463/dodie-bellamy)
 - [View from a folding chair](http://www.newyorker.com/magazine/2015/05/18/view-from-a-folding-chair) by Mónica de la Torre
 - Donna Stonecipher: [Model City](http://www.shearsman.com/ws-shop/category/796-books/product/4891-donna-stonecipher-model-city)
- 
+- Jonathan Basile: [Library of Babel](http://libraryofbabel.info/), an attempt to create a website that contain every book that ever has been written, and every book that ever could be. 
+- [Recess Analog](http://www.recessanalog.org/)
 
 ### "Computation" and code as an art form 
 
 - [code {poems}](http://code-poems.com/) by [Ishac Bertran](http://ishback.com/)
 - [Esolang](https://esolangs.org/wiki/Main_Page)
 - [Esoteri code](http://esoteric.codes/)
-- Jonathan Basile: [Library of Babel](http://libraryofbabel.info/), an attempt to create a website that contain every book that ever has been written, and every book that ever could be.  
-- Stephanie Strickland and Nickt Montfort: [Duels — Duets](http://duels-duets.newbinarypress.com/), computational poem about collaboration.
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org/)
+
+###Classes at SFPC, Fall 2015
+
+- [Generative text](https://github.com/aparrish/sfpc-gen-text-2015) by Allison Parrish
+- [Recreating the past](https://github.com/ofZach/recreatingThePast) by Zach Lieberman
+- [Radical Computer Science](http://nasser.github.io/sfpc/) by Ramsey Nasser 
+- [Physical computing](https://github.com/caitlinmorris/sfpc-pcomp-2015) by Caitlin Morris
+- [Concept and Theory Studio](https://github.com/tchoi8/ConceptsClass) by Taeyoon Choi 
 
 ### Speaking and executing
 
@@ -115,9 +137,11 @@ Neural Network as Measure of Adaptive Fitness](http://citeseerx.ist.psu.edu/view
 
 ### Next steps
 
+Back to socially engaged art pratice and spatial art practice. 
+
 #### Resource and community
 
-- Where to learn these stuff? 
+- Where and how to learn these stuff? 
 - [SFPC Repository](https://github.com/SFPC/fall15)
 - Dan Shiffman's [Programming A to Z](https://github.com/shiffman/A2Z-F15) class and tutorial
 - Lauren McCarthy's [Conversation and Computation](https://github.com/lmccart/itp-convo-comp) at ITP 
@@ -125,8 +149,18 @@ Neural Network as Measure of Adaptive Fitness](http://citeseerx.ist.psu.edu/view
 - [MoMA R&D Salon](https://www.moma.org/learn/momarnd/index)
 - Creative Time: [Art MOOC](http://creativetime.org/projects/art-mooc/) 
 
+#### Start your own school 
+
+- Always reinventing the wheel
+- Recipe for making a small school 
+- No branch, Watch out the Brand, Start local and small  
+- [School of Making, Magic, Make-believe](http://schoolofma.org/)
+- [Ofcourse](http://ofcourse.io/)
+
 
 #### New audiences 
+
+- [Hispanic-Serving Institutions](http://www2.ed.gov/programs/hsistem/index.html)
 - [Rap Research Lab](http://rrlstudentresearch.tumblr.com/)
 - [Code Liberation Foundation](http://codeliberation.org/)
 - [The Tree](https://github.com/tchoi8/thetree)
