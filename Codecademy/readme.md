@@ -6,6 +6,7 @@ Some might say Poetry is having a moment right now. due to the [Internet culture
 However, poetry has been always having a moment, as we can see [as early as 1952](http://www.telegraph.co.uk/news/science/science-news/4967408/Worlds-first-computer-was-used-to-generate-love-poetry.html), people were using computers to write love poems. 
 
 
+![](https://github.com/tchoi8/talks/blob/master/Codecademy/flower.jpg?raw=true)
 
 ### "School" for poetic computation
 
