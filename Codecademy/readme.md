@@ -6,7 +6,10 @@ Some might say Poetry is having a moment right now. due to the [Internet culture
 However, poetry has been always having a moment, as we can see [as early as 1952](http://www.telegraph.co.uk/news/science/science-news/4967408/Worlds-first-computer-was-used-to-generate-love-poetry.html), people were using computers to write love poems. 
 
 
+
 ### "School" for poetic computation
+
+How I got involved in starting and running a school.
 
 - [Goat Island Performance Group](http://www.goatislandperformance.org/) 
 - [Eyebeam Art and Technology Center](http://eyebeam.org)
@@ -20,30 +23,51 @@ However, poetry has been always having a moment, as we can see [as early as 1952
 - [Organization for Direct Democracy by Referendum](http://casestudiesforeducationalturn.blog.hu/2011/05/24/joseph_beuys_organization_for_direct_democracy_by_referendum) 
 - [MIT Media Lab](https://www.media.mit.edu/) 
 - [NYU ITP](http://tisch.nyu.edu/itp) 
-- SFPC's operating principle "Radical transparency"
-- "Pass through" financial model 
+- [SFPC begins](https://speakerdeck.com/tchoi8/sfpc-the-first-class) in 2013. 
+
+
+
+
+#### "Learning is Teaching is Making is Doing"
+
+- Horizontal pedagogy
+- "Eleanor Duckworth, Rudolf Steiner, Ivan Illich, Maria Montessori, John Taylor Gatto, Paulo Freire, Grace Llewellyn, Larry Harvey." from Jay Silver's [ph.d thesis](http://web.media.mit.edu/~silver/Lens-Block-Jay-Silver-PhD-Thesis.pdf), pg.20 
+- Horizontal approach [Critical pedagogy](http://taeyoonchoi.com/2012/05/notes-on-critical-pedagogy/)
+- "Cultural science, Temporality, in cultural geography, critique of temporarlity. Art is about reality production." [Olafur Elliason](http://raumexperimente.net/en/single/olafur-eliasson-closing-address/)
+-  How to make an "Open source school" in physical reality?  
+-  "What do you want SFPC to be?" (our interview question)? 
+- SFPC's financial operating principle "[Radical transparency](https://github.com/SFPC/finance-and-administration)""
+- Admininistrating an [Alternative education project](https://speakerdeck.com/tchoi8/alternative-art-education)
+- LLC. "Pass through" financial model 
 - Non for profit vs Artist collective 
 - Founders / Steering committee / Organizer / Teacher / Visiting artists/ Student / Friend  
 
 
-#### Radical pedagogy
+###Classes at SFPC, Fall 2015
 
-- "Eleanor Duckworth, Rudolf Steiner, Ivan Illich, Maria Montessori, John Taylor Gatto, Paulo Freire, Grace Llewellyn, Larry Harvey." from Jay Silver's [ph.d thesis](http://web.media.mit.edu/~silver/Lens-Block-Jay-Silver-PhD-Thesis.pdf), pg.20 
-- Horizontal approach [Critical pedagogy](http://taeyoonchoi.com/2012/05/notes-on-critical-pedagogy/)
-- "Cultural science, Temporality, in cultural geography, critique of temporarlity. Art is about reality production." [Olafur Elliason](http://raumexperimente.net/en/single/olafur-eliasson-closing-address/)
--  How to make an "Open source school" in physical reality 
--  "What do you want SFPC to be?" (our interview question)
+Shout out to SFPC Steering Committee and Fall 2015 Organizers. 
+
+- [Generative text](https://github.com/aparrish/sfpc-gen-text-2015) by Allison Parrish
+- [Recreating the past](https://github.com/ofZach/recreatingThePast) by Zach Lieberman
+- [Radical Computer Science](http://nasser.github.io/sfpc/) by Ramsey Nasser 
+- [Physical computing](https://github.com/caitlinmorris/sfpc-pcomp-2015) by Caitlin Morris
+- [Concept and Theory Studio](https://github.com/tchoi8/ConceptsClass) by Taeyoon Choi 
+
+
+
 
 ###"Poetic" computation 
 
-My own [projects](http://taeyoonchoi.com)
+I like pencil and paper as much as computers and circuits. My own [projects](http://taeyoonchoi.com)
 
 - [Handmade Computer](https://github.com/tchoi8/handmadecomputer)
-- [In Search of Personalized Time](http://i-s-o-p-t.com/)
+- [In Search of Personalized Time](http://i-s-o-p-t.com/), a collaboration with E Roon Kang 
 - [Absence Presence](http://absencepresence.org/), an ongoing collaboration with Christine Sun Kim
-- [Version Controlled Poetry](https://github.com/tchoi8/poetry)
+- [Version Controlled Poetry](https://github.com/tchoi8/poetry) with many collaborators 
 
 ### Wait. poetry? 
+
+What does poetry look like now? 
 
 - Concrete poems
 - [Oulipo](https://en.wikipedia.org/wiki/Oulipo)
@@ -52,7 +76,7 @@ My own [projects](http://taeyoonchoi.com)
 - Stephanie Strickland and Nickt Montfort: [Duels — Duets](http://duels-duets.newbinarypress.com/), computational poem about collaboration.
 - Kenneth Goldsmith: [Uncreative writing](http://chronicle.com/article/Uncreative-Writing/128908/) 
 - Sougwen Chung: [#gothscreenshots](http://gothscreenshots.tumblr.com/)
-- [Hannah Weiner](https://en.wikipedia.org/wiki/Hannah_Weiner)
+- [Hannah Weiner](https://en.wikipedia.org/wiki/Hannah_Weiner)'s Code Poems
 - [muumuuhouse](http://muumuuhouse.com/)
 - [Badlands Unlimited](http://badlandsunlimited.com/)
 - [Internet poetry](http://internetpoetry.tumblr.com/)
@@ -67,22 +91,14 @@ My own [projects](http://taeyoonchoi.com)
 - Jonathan Basile: [Library of Babel](http://libraryofbabel.info/), an attempt to create a website that contain every book that ever has been written, and every book that ever could be. 
 - [Recess Analog](http://www.recessanalog.org/)
 
-### "Computation" and code as an art form 
+### "Computation" as an art form 
 
 - [code {poems}](http://code-poems.com/) by [Ishac Bertran](http://ishback.com/)
 - [Esolang](https://esolangs.org/wiki/Main_Page)
 - [Esoteri code](http://esoteric.codes/)
 - [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org/)
-
-###Classes at SFPC, Fall 2015
-
-- [Generative text](https://github.com/aparrish/sfpc-gen-text-2015) by Allison Parrish
-- [Recreating the past](https://github.com/ofZach/recreatingThePast) by Zach Lieberman
-- [Radical Computer Science](http://nasser.github.io/sfpc/) by Ramsey Nasser 
-- [Physical computing](https://github.com/caitlinmorris/sfpc-pcomp-2015) by Caitlin Morris
-- [Concept and Theory Studio](https://github.com/tchoi8/ConceptsClass) by Taeyoon Choi 
-
-### Speaking and executing
+ 
+### Speaking, reading and executing
 
 - [Code Poetry Jam](https://codepoetry.at/ ) recite code, as poetry 
 - Geoff Cox and Alex McLean: [Speaking Code: coding as aesthetic and political expression](http://www.markbernstein.org/BooksSpring2012/SpeakingCodecodingasaesthe.html)
@@ -105,7 +121,7 @@ My own [projects](http://taeyoonchoi.com)
 - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 - Robert P. Levy: [A Computational Model of Poetic Creativity with
 Neural Network as Measure of Adaptive Fitness](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1464&rep=rep1&type=pdf)
-- [Swift-Speare: Statistical Poetry](http://natematias.com/portfolio/DesignArt/Swift-SpeareStatisticalP.html
+- [Swift-Speare: Statistical Poetry](http://natematias.com/portfolio/DesignArt/Swift-SpeareStatisticalP.html)
 - [Turing test passed using computer generated poetry](https://rpiai.wordpress.com/2015/01/24/turing-test-passed-using-computer-generated-poetry/), [code](https://github.com/schollz/poetry-generator)
 
 ### Text to Textile, and then to Texture 
@@ -131,18 +147,21 @@ Neural Network as Measure of Adaptive Fitness](http://citeseerx.ist.psu.edu/view
 - [Session info](http://sfpc.io/summer2015/)
 - Organization team 
 - Teachers and classes
-- Students: Jane Friedhoff's Slam City Orcale, ++ 
+- Students: Jane Friedhoff's [Slam City Orcale](http://janefriedhoff.com/slamcityoracles/) + 
 - [Artist tool kit](https://github.com/tchoi8/ArtistToolKit)
 - Showcase: Photo/ video  
 
 ### Next steps
 
-Back to socially engaged art pratice and spatial art practice. 
+Back to socially engaged art pratice and activism in the public space.  
 
-#### Resource and community
+ 
+
+#### Collaborate, cooperate, participate
 
 - Where and how to learn these stuff? 
 - [SFPC Repository](https://github.com/SFPC/fall15)
+- Resource and community 
 - Dan Shiffman's [Programming A to Z](https://github.com/shiffman/A2Z-F15) class and tutorial
 - Lauren McCarthy's [Conversation and Computation](https://github.com/lmccart/itp-convo-comp) at ITP 
 - [Arts Tech Meetup](http://www.meetup.com/Arts-Culture-and-Technology/)
@@ -156,10 +175,13 @@ Back to socially engaged art pratice and spatial art practice.
 - No branch, Watch out the Brand, Start local and small  
 - [School of Making, Magic, Make-believe](http://schoolofma.org/)
 - [Ofcourse](http://ofcourse.io/)
+- Everything is a social and spatial practice 
 
 
 #### New audiences 
 
+- [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
+- [P-tech](http://www.ptechnyc.org/site/default.aspx?PageID=1)
 - [Hispanic-Serving Institutions](http://www2.ed.gov/programs/hsistem/index.html)
 - [Rap Research Lab](http://rrlstudentresearch.tumblr.com/)
 - [Code Liberation Foundation](http://codeliberation.org/)
